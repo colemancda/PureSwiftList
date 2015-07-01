@@ -4,7 +4,6 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 ## Base Libraries
 - [SwiftFoundation](https://github.com/PureSwift) Pure Swift Replacement for Apple's Foundation framework
 - [Basis](https://github.com/typelift/Basis) Declarative Programming in Swift
-- [RxSwift](https://github.com/kzaher/RxSwift) Microsoft Reactive Extensions (Rx) for Swift
 
 ## Data Types
 - [Box](https://github.com/robrix/Box) Box reference types, for recursive value types & misc.
@@ -26,4 +25,3 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 ## Other
 - [SwiftExP](https://github.com/mrackwitz/SwiftExP) S-expression Parser
 - [CommandLine](https://github.com/jatoben/CommandLine) A pure Swift library for creating command-line interfaces
-- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) Cryptography framework
