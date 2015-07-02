@@ -24,4 +24,5 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 
 ## Other
 - [SwiftExP](https://github.com/mrackwitz/SwiftExP) S-expression Parser
+- [Swift-StringFormat](https://github.com/gfx/Swift-StringFormat) A pure Swift sprintf-like string formatter.
 - [CommandLine](https://github.com/jatoben/CommandLine) A pure Swift library for creating command-line interfaces
