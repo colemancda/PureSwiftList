@@ -10,6 +10,8 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [Result](https://github.com/antitypical/Result) Swift type modelling the success/failure of arbitrary operations
 - [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) Generic Priority Queue in Pure Swift
 - [SwiftGraph](https://github.com/davecom/SwiftGraph) Graph Data Structure in Pure Swift
+- [Observable-Swift](https://github.com/slazyk/Observable-Swift) Value Observing and Events for Swift
+
 
 ## Unit Testing
 - [PureSwiftUnit](https://github.com/demmys/PureSwiftUnit) Simple Swift Unit testing framework
@@ -25,4 +27,5 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 ## Other
 - [SwiftExP](https://github.com/mrackwitz/SwiftExP) S-expression Parser
 - [Swift-StringFormat](https://github.com/gfx/Swift-StringFormat) A pure Swift sprintf-like string formatter.
+- [SINQ](https://github.com/slazyk/SINQ) Swift Integrated Query
 - [CommandLine](https://github.com/jatoben/CommandLine) A pure Swift library for creating command-line interfaces
