@@ -1,4 +1,6 @@
 # Pure Swift Frameworks
+
+[![Join the chat at https://gitter.im/PureSwift/PureSwiftList](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PureSwift/PureSwiftList?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The following is a list of frameworks on GitHub that are implemented purely in Swift. The frameworks are not linked against Foundation or other proprietary frameworks by Apple.
 
 ## Base Libraries
