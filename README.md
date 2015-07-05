@@ -13,7 +13,7 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) Generic Priority Queue in Pure Swift
 - [SwiftGraph](https://github.com/davecom/SwiftGraph) Graph Data Structure in Pure Swift
 - [Observable-Swift](https://github.com/slazyk/Observable-Swift) Value Observing and Events for Swift
-
+- [SwiftObserverSet](https://github.com/mikeash/SwiftObserverSet) NSNotificationCenter re-conceptualization for Swift
 
 ## Unit Testing
 - [PureSwiftUnit](https://github.com/demmys/PureSwiftUnit) Simple Swift Unit testing framework
