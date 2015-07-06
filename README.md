@@ -37,3 +37,4 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [Signal](https://github.com/blinker13/Signal) Pure Swift wrapper around GCD
 - [SwiftlyLRU](https://github.com/justinmfischer/SwiftlyLRU) Pure Swift Least Recently Used "LRU" Cache
 - [Transporter](https://github.com/DenHeadless/Transporter) Modern finite-state machine implemented in pure Swift
+-[AsyncAwait](https://github.com/awesome404/AsyncAwait) A simple ascyncronous API written in Swift (like .NET async)
