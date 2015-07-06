@@ -5,7 +5,7 @@
 The following is a list of frameworks on GitHub that are implemented purely in Swift. The frameworks are not linked against Foundation or other proprietary frameworks by Apple.
 
 ## Base Libraries
-- [SwiftFoundation](https://github.com/PureSwift) Pure Swift Replacement for Apple's Foundation framework
+- [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation) Pure Swift Replacement for Apple's Foundation framework
 - [Basis](https://github.com/typelift/Basis) Declarative Programming in Swift
 
 ## Data Types
