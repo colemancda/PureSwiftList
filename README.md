@@ -22,6 +22,7 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 ## Networking
 - [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server
 - [SwiftSockets](https://github.com/AlwaysRightInstitute/SwiftSockets) A simple GCD based socket wrapper for Swift.
+- [SnapHTTP](https://github.com/tidwall/SnapHTTP) An incredibly simple HTTP client library for Swift.
 
 ## Parsing
 - [Swift-JsonSerializer](https://github.com/gfx/Swift-JsonSerializer) JSON serializer and deserializer
@@ -29,12 +30,20 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [JSON-and-Swift](https://github.com/einfachmensch/JSON-and-Swift) Complete types written in pure Swift for parsing, serializing and constructing from custom objects
 - [SwiftyExpat](https://github.com/AlwaysRightInstitute/SwiftyExpat) Pure Swift wrapper for the Expat XML parser
 
+## Asyncronous
+- [AsyncAwait](https://github.com/awesome404/AsyncAwait) A simple ascyncronous API written in Swift (like .NET async)
+- [Safe](https://github.com/tidwall/Safe) Modern Concurrency and Synchronization for Swift
+- [Signal](https://github.com/blinker13/Signal) Pure Swift wrapper around GCD
+
+## Cryptography
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) Crypto related functions and helpers for Swift implemented in Swift programming language
+
 ## Other
 - [CommandLine](https://github.com/jatoben/CommandLine) A pure Swift library for creating command-line interfaces
 - [SwiftExP](https://github.com/mrackwitz/SwiftExP) S-expression Parser
 - [Swift-StringFormat](https://github.com/gfx/Swift-StringFormat) A pure Swift sprintf-like string formatter.
 - [SINQ](https://github.com/slazyk/SINQ) Swift Integrated Query
-- [Signal](https://github.com/blinker13/Signal) Pure Swift wrapper around GCD
 - [SwiftlyLRU](https://github.com/justinmfischer/SwiftlyLRU) Pure Swift Least Recently Used "LRU" Cache
 - [Transporter](https://github.com/DenHeadless/Transporter) Modern finite-state machine implemented in pure Swift
--[AsyncAwait](https://github.com/awesome404/AsyncAwait) A simple ascyncronous API written in Swift (like .NET async)
+- [GoSwift](https://github.com/tidwall/GoSwift) Go Goodies for Swift. Including goroutines, channels, defer, and panic.
+- [DeflateSwift](https://github.com/tidwall/DeflateSwift) Deflate Compression for Swift
