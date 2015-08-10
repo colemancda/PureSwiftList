@@ -25,6 +25,7 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [SnapHTTP](https://github.com/tidwall/SnapHTTP) An incredibly simple HTTP client library for Swift.
 
 ## Parsing
+- [json-swift](https://github.com/owensd/json-swift) A basic library for working with JSON in Swift.
 - [Swift-JsonSerializer](https://github.com/gfx/Swift-JsonSerializer) JSON serializer and deserializer
 - [PureJSON](https://github.com/awesome404/PureJSON) JSON in Swift 2.0
 - [JSON-and-Swift](https://github.com/einfachmensch/JSON-and-Swift) Complete types written in pure Swift for parsing, serializing and constructing from custom objects
