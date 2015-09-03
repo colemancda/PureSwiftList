@@ -20,7 +20,8 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [PureSwiftUnit](https://github.com/demmys/PureSwiftUnit) Simple Swift Unit testing framework
 
 ## Networking
-- [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) - A simple GCD based HTTP client and server
+- [cURLSwift](https://github.com/PureSwift/cURLSwift) Pure Swift wrapper for cURL
+- [SwiftyHTTP](https://github.com/AlwaysRightInstitute/SwiftyHTTP) A simple GCD based HTTP client and server
 - [SwiftSockets](https://github.com/AlwaysRightInstitute/SwiftSockets) A simple GCD based socket wrapper for Swift.
 - [SnapHTTP](https://github.com/tidwall/SnapHTTP) An incredibly simple HTTP client library for Swift.
 
@@ -36,8 +37,9 @@ The following is a list of frameworks on GitHub that are implemented purely in S
 - [Safe](https://github.com/tidwall/Safe) Modern Concurrency and Synchronization for Swift
 - [Signal](https://github.com/blinker13/Signal) Pure Swift wrapper around GCD
 
-## Cryptography
+## Algorithms
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) Crypto related functions and helpers for Swift implemented in Swift programming language
+- [SwiftyBase64](https://github.com/drichardson/SwiftyBase64) Native Swift Base64 Encoding
 
 ## Other
 - [CommandLine](https://github.com/jatoben/CommandLine) A pure Swift library for creating command-line interfaces
